@@ -305,6 +305,7 @@ p {
 	#bd-social-icons {
 		gap: .85rem;
 		margin-right: .5rem;
+		margin-bottom: .5rem;
 	}
 	
 	.logo,
@@ -317,12 +318,13 @@ p {
 	}
 
 	.gif2{
-		height: 15rem;
+		height: 12rem;
 	}
 
 	h1,
 	h2 {
-		font-size: 3rem;
+		font-size: 2.5rem;
 	}
+
 
 }
